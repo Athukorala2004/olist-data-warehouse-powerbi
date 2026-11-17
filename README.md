@@ -54,6 +54,17 @@ Dataset source: [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.c
 5. Connect the analytical data to Power BI.
 6. Create dashboards to visualise business performance.
 
+## Power BI Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Screenshots/Executive_Summary.png)
+
+### Interactive Analysis
+![Interactive Analysis](Screenshots/Interactive_Analysis.png)
+
+### Trend Analysis
+![Trend Analysis](Screenshots/Trend_Analysis.png)
+
 ## Project Files
 
 - `SQL/` — SQL scripts used in the data warehousing project.
